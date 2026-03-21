@@ -13,7 +13,7 @@
 * Conf_Internal_10：2016 内测版
 * Conf_Internal_11：2019 内测版
 * Conf_Internal_12：2023 内测版
-* Conf_Production_12_Sherii：2023 内测版（新 12.1.0 分支专业版）
+* Conf_Internal_12_Sherii：2023 内测版（新 12.1.0 分支专业版）
 * Conf_Internal_Personal：2023 内测版（个人版 / 商业版老版，已废弃）
 * Conf_Production_10：2016 外发版
 * Conf_Production_11：2019 外发版
